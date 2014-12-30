@@ -2,8 +2,8 @@
 ## ASM, Reversing and Exploit
 
 #### References
-###### X86 Opcode and Instruction Reference 
-> http://ref.x86asm.net/
+###### Intel x86 Assembler Instruction Set Opcode Table
+> http://www.sparksandflames.com/files/x86InstructionChart.html
 
 ###### X86 Assembly Guide 
 > http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
