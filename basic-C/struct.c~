@@ -1,0 +1,29 @@
+typedef struct point {
+	int	x;
+	int	y;
+	int	z;
+} point;
+
+
+int main(){
+	point p1 = {1,2,3}, p2={0,0,1};
+	return p1.y+p2.z;
+}
+
+	/* (gdb) disas main
+	   0x080483ec <+0>:     push   %ebp
+	   0x080483ed <+1>:     mov    %esp,%ebp
+	   0x080483ef <+3>:     sub    $0x18,%esp
+	   0x080483f2 <+6>:     movl   $0x1,-0xc(%ebp)
+	   0x080483f9 <+13>:    movl   $0x2,-0x8(%ebp)
+	   0x08048400 <+20>:    movl   $0x3,-0x4(%ebp)
+	   0x08048407 <+27>:    movl   $0x0,-0x18(%ebp)
+	   0x0804840e <+34>:    movl   $0x0,-0x14(%ebp)
+	   0x08048415 <+41>:    movl   $0x1,-0x10(%ebp)
+	   0x0804841c <+48>:    mov    -0x8(%ebp),%edx
+	   0x0804841f <+51>:    mov    -0x10(%ebp),%eax
+	   0x08048422 <+54>:    add    %edx,%eax
+	   0x08048424 <+56>:    leave  
+	   0x08048425 <+57>:    ret    
+	*/
+

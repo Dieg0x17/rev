@@ -1,0 +1,13 @@
+
+int main()
+{
+	return 0;
+}
+
+/*
+   0x080483ec <+0>:     push   %ebp
+   0x080483ed <+1>:     mov    %esp,%ebp
+   0x080483ef <+3>:     mov    $0x0,%eax
+   0x080483f4 <+8>:     pop    %ebp
+   0x080483f5 <+9>:     ret
+*/
