@@ -8,6 +8,14 @@
 ###### X86 Assembly Guide 
 > http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
+###### The Art of ASSEMBLY LANGUAGE PROGRAMMING
+> http://www.oopweb.com/Assembly/Documents/ArtOfAssembly/Volume/toc.html
+
+
+###### Understanding the Stack
+> http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html
+
+
 #### Interesting Stuff
 
 ###### Introductory Intel x86: Architecture, Assembly, Applications 
