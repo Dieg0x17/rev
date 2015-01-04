@@ -36,3 +36,6 @@
 #### Practical Examples
 ###### BOF Shellcode Exploit
 > https://www.youtube.com/watch?v=MI8UTpbk1HQ
+
+###### Public Wargames, 10 examples from BOF to ROP
+> https://www.youtube.com/watch?v=NwP4x2aySbo&list=PL77DCD5DFE17470A3&index=1
